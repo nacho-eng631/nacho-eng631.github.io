@@ -1,8 +1,0 @@
-//week08-5c
-#include <stdio.h>
-int main()
-{
-	int N;
-	scanf("%d", &N);
-	printf("%d",(N-1)%7);
-}
